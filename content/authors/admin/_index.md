@@ -68,7 +68,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/timoflesch_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,6 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Data Scientist with interdisciplinary background in Neuroscience and AI.
+I'm a data scientist with interdisciplinary background in neuroscience and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/timoflesch_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
