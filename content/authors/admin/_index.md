@@ -77,7 +77,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+---- Website under construction -----
 I'm a data scientist with interdisciplinary background in neuroscience and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/timoflesch_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
