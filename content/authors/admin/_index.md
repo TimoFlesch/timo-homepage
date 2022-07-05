@@ -48,7 +48,7 @@ social:
     link: https://twitter.com/timoflesch
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    https://scholar.google.co.uk/citations?user=IpcRuskAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/timoflesch
@@ -78,6 +78,8 @@ email: ''
 highlight_name: true
 ---
 ---- Website under construction -----
-I'm a data scientist with interdisciplinary background in neuroscience and machine learning.
+I'm a post-doctoral researcher and data scientist with interdisciplinary background in neuroscience and machine learning. 
+Currently, I'm based at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) supported by an [MRC transition to postdoc award](https://www.medsci.ox.ac.uk/study/graduateschool/mrcdtp/supplementary-funding) where I'm using tools from deep learning theory to build computational models of neuroscientific phenomena.  
+Previously, I was a PhD student in Chris Summerfield's group at the University of Oxford, where I investigated neural and behavioural markers of representation learning in the brain, using machine learning techniques for large-scale data analysis and deep artificial neural networks as models of neural information processing. You can find out more about my research in the sections below. On the side, I was active as Data Science consultant for [Oxford Strategy Group Digital](https://www.osgdigitallabs.com/), the UK's largest student-run digital consultancy, where I lead and completed several data science projects with international clients in industry. Examples of my work can be found in the portfolio section of this website. During my time as PhD student, I was also involved as machine learning researcher in a project with the [Oxford Artifiial Intelligence Society](https://oxai.org/), where I investigated how Reinforcement Learning techniques can be used to optimise purchasing decisions for cloud computing resources.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/timoflesch_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
